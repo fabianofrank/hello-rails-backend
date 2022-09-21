@@ -19,7 +19,7 @@ $ git clone git@github.com:fabianofrank/hello-rails-backend.git
 ```
  - Then go to the folder
 ```
-$ cd hello-rails-back
+$ cd hello-rails-backend
 ```
 
 ## Getting Started
