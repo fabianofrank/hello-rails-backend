@@ -1,6 +1,6 @@
-# Hello World Rails => Back-End
+# Hello World Rails Back-End
 
-This Hello World project implements an API endpoint on Ruby on rails that will be connect to the React fron-end through the two repos aprroach for web development.
+> This Hello World project implements an API endpoint on Ruby on Rails that will be connect to the React fron-end through the two repos aprroach for web development.
 
 ### Prerequisites
  - First of all make sure you have `PSQL`, `Ruby` & `Rails` installed in your machine
